@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="995" started-at="2015-05-29T14:36:49Z" finished-at="2015-05-29T14:36:50Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="995" started-at="2015-05-29T14:36:49Z" finished-at="2015-05-29T14:36:50Z">
+      <class name="com.gymboree.test.TestFunctionality">
+        <test-method status="PASS" signature="test()" name="test" duration-ms="981" started-at="2015-05-29T14:36:49Z" finished-at="2015-05-29T14:36:50Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
